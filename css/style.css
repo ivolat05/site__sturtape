@@ -329,9 +329,8 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-width: 249px;
-    min-height: 263px;
-    margin: 0 10px;
+    max-width: 249px;
+    margin: 0 auto;
 }
 
 .slaider__wrapper-two {
@@ -339,9 +338,8 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-width: 249px;
-    min-height: 263px;
-    margin: 0 10px;
+    max-width: 249px;
+    margin: 0 auto;
 }
 
 .slaider__wrapper-three {
@@ -349,9 +347,8 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-width: 249px;
-    min-height: 263px;
-    margin: 0 10px;
+    max-width: 249px;
+    margin: 0 auto;
 }
 
 .slaider__wrapper-four {
@@ -359,9 +356,8 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    min-width: 249px;
-    min-height: 263px;
-    margin: 0 10px;
+    max-width: 249px;
+    margin: 0 auto;
 }
 
 
